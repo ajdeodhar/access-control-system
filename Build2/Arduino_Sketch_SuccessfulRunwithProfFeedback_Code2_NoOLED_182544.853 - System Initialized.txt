@@ -1,0 +1,67 @@
+18:25:44.853 -> System Initialized
+18:25:46.397 -> Current People Count: 0
+18:25:52.387 -> Individual approaching
+18:25:55.517 -> Health Check Passed.
+18:25:57.086 -> Access Granted.
+18:25:57.086 -> Current People Count: 1
+18:25:57.118 -> Occupancy: LOW
+18:25:58.381 -> Individual approaching
+18:25:59.573 -> Health Check Passed.
+18:26:00.440 -> Access Granted.
+18:26:00.440 -> Current People Count: 2
+18:26:00.482 -> Occupancy: LOW
+18:26:04.378 -> Individual approaching
+18:26:04.912 -> Health Check Passed.
+18:26:05.995 -> Access Granted.
+18:26:06.027 -> Current People Count: 3
+18:26:06.062 -> Occupancy: LOW
+18:26:09.424 -> Exit Button Pressed.
+18:26:09.456 -> Current People Count: 2
+18:26:09.489 -> Occupancy: LOW
+18:26:10.372 -> Individual approaching
+18:26:14.976 -> Health Check Passed.
+18:26:15.718 -> Access Granted.
+18:26:15.750 -> Current People Count: 3
+18:26:15.788 -> Occupancy: LOW
+18:26:16.381 -> Individual approaching
+18:26:16.996 -> Health Check Passed.
+18:26:18.046 -> Access Granted.
+18:26:18.077 -> Current People Count: 4
+18:26:18.077 -> Occupancy: LOW
+18:26:22.390 -> Individual approaching
+18:26:22.800 -> Health Check Passed.
+18:26:23.861 -> Access Granted.
+18:26:28.849 -> Health Check Passed.
+18:26:29.970 -> Access Granted.
+18:26:30.002 -> Current People Count: 6
+18:26:30.002 -> Occupancy: MEDIUM
+18:26:34.382 -> Individual approaching
+18:26:34.567 -> Health Check Passed.
+18:26:35.902 -> Access Granted.
+18:26:35.934 -> Current People Count: 7
+18:26:35.970 -> Occupancy: MEDIUM
+18:26:38.273 -> Exit Button Pressed.
+18:26:38.305 -> Current People Count: 6
+18:26:38.305 -> Occupancy: MEDIUM
+18:26:40.371 -> Individual approaching
+18:26:40.956 -> Health Check Passed.
+18:26:41.719 -> Access Granted.
+18:26:41.719 -> Current People Count: 7
+18:26:41.758 -> Occupancy: MEDIUM
+18:26:46.389 -> Individual approaching
+18:26:46.758 -> Health Check Passed.
+18:26:47.762 -> Access Granted.
+18:26:47.793 -> Current People Count: 8
+18:26:47.838 -> Occupancy: MEDIUM
+18:26:52.394 -> Individual approaching
+18:26:52.832 -> Health Check Passed.
+18:26:53.333 -> Access Granted.
+18:26:53.368 -> Current People Count: 9
+18:26:53.405 -> Occupancy: HIGH
+18:26:58.383 -> Individual approaching
+18:26:58.797 -> Health Check Passed.
+18:26:59.407 -> Access Granted.
+18:26:59.440 -> Current People Count: 10
+18:26:59.440 -> Occupancy: HIGH
+18:27:04.385 -> Individual approaching
+18:27:04.420 -> Maximum Capacity Reached. Access Denied.

@@ -1,0 +1,34 @@
+17:55:33.706 -> System Initialized
+17:55:35.245 -> Current People Count: 0
+17:55:43.984 -> Individual approaching
+17:55:44.894 -> Health Check Passed.
+17:55:46.120 -> Access Granted.
+17:55:46.120 -> Current People Count: 1
+17:55:49.986 -> Individual approaching
+17:55:51.743 -> Health Check Failed. Access Denied.
+17:55:55.992 -> Individual approaching
+17:55:57.445 -> Health Check Passed.
+17:55:58.492 -> Access Granted.
+17:55:58.492 -> Current People Count: 2
+17:56:00.809 -> Exit Button Pressed.
+17:56:00.809 -> Current People Count: 1
+17:56:02.695 -> Individual approaching
+17:56:03.509 -> Health Check Passed.
+17:56:04.426 -> Access Granted.
+17:56:04.459 -> Current People Count: 2
+17:56:08.707 -> Individual approaching
+17:56:09.138 -> Health Check Passed.
+17:56:09.890 -> Access Granted.
+17:56:09.890 -> Current People Count: 3
+17:56:14.689 -> Individual approaching
+17:56:15.865 -> Health Check Passed.
+17:56:16.385 -> Access Granted.
+17:56:16.417 -> Current People Count: 4
+17:56:20.679 -> Individual approaching
+17:56:21.140 -> Health Check Passed.
+17:56:21.780 -> Access Granted.
+17:56:21.813 -> Current People Count: 5
+17:56:26.702 -> Individual approaching
+17:56:26.736 -> Maximum Capacity Reached. Access Denied.
+17:56:33.403 -> Individual approaching
+17:56:33.403 -> Maximum Capacity Reached. Access Denied.

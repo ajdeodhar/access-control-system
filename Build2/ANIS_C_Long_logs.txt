@@ -1,0 +1,896 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2025.08.17 22:51:58 =~=~=~=~=~=~=~=~=~=~=~=
+System Initialized
+Current People Count: 0
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 1
+Occupancy: LOW
+[OLED] People Count: 1
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 2
+Occupancy: LOW
+[OLED] People Count: 2
+Exit Button Pressed.
+Current People Count: 1
+Occupancy: LOW
+[OLED] People Count: 1
+Exit Button Pressed.
+Current People Count: 0
+Occupancy: LOW
+[OLED] People Count: 0
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 1
+Occupancy: LOW
+[OLED] People Count: 1
+Exit Button Pressed.
+Current People Count: 0
+Occupancy: LOW
+[OLED] People Count: 0
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 1
+Occupancy: LOW
+[OLED] People Count: 1
+Individual approaching
+Health Check Failed. Access Denied.
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 2
+Occupancy: LOW
+[OLED] People Count: 2
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 3
+Occupancy: LOW
+[OLED] People Count: 3
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 4
+Occupancy: LOW
+[OLED] People Count: 4
+Individual approaching
+Health Check Failed. Access Denied.
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 5
+Occupancy: LOW
+[OLED] People Count: 5
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 6
+Occupancy: LOW
+[OLED] People Count: 6
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 7
+Occupancy: LOW
+[OLED] People Count: 7
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 8
+Occupancy: LOW
+[OLED] People Count: 8
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 9
+Occupancy: LOW
+[OLED] People Count: 9
+Exit Button Pressed.
+Current People Count: 8
+Occupancy: LOW
+[OLED] People Count: 8
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 9
+Occupancy: LOW
+[OLED] People Count: 9
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 10
+Occupancy: LOW
+[OLED] People Count: 10
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 11
+Occupancy: LOW
+[OLED] People Count: 11
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 12
+Occupancy: LOW
+[OLED] People Count: 12
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 13
+Occupancy: LOW
+[OLED] People Count: 13
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 14
+Occupancy: LOW
+[OLED] People Count: 14
+Exit Button Pressed.
+Current People Count: 13
+Occupancy: LOW
+[OLED] People Count: 13
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 14
+Occupancy: LOW
+[OLED] People Count: 14
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 15
+Occupancy: LOW
+[OLED] People Count: 15
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 16
+Occupancy: LOW
+[OLED] People Count: 16
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 17
+Occupancy: LOW
+[OLED] People Count: 17
+Exit Button Pressed.
+Current People Count: 16
+Occupancy: LOW
+[OLED] People Count: 16
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 17
+Occupancy: LOW
+[OLED] People Count: 17
+Exit Button Pressed.
+Current People Count: 16
+Occupancy: LOW
+[OLED] People Count: 16
+Exit Button Pressed.
+Current People Count: 15
+Occupancy: LOW
+[OLED] People Count: 15
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 16
+Occupancy: LOW
+[OLED] People Count: 16
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 17
+Occupancy: LOW
+[OLED] People Count: 17
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 18
+Occupancy: LOW
+[OLED] People Count: 18
+Individual approaching
+Health Check Failed. Access Denied.
+Individual approaching
+Health Check Failed. Access Denied.
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 19
+Occupancy: LOW
+[OLED] People Count: 19
+Exit Button Pressed.
+Current People Count: 18
+Occupancy: LOW
+[OLED] People Count: 18
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 19
+Occupancy: LOW
+[OLED] People Count: 19
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 20
+Occupancy: LOW
+[OLED] People Count: 20
+Exit Button Pressed.
+Current People Count: 19
+Occupancy: LOW
+[OLED] People Count: 19
+Exit Button Pressed.
+Current People Count: 18
+Occupancy: LOW
+[OLED] People Count: 18
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 19
+Occupancy: LOW
+[OLED] People Count: 19
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 20
+Occupancy: LOW
+[OLED] People Count: 20
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 21
+Occupancy: LOW
+[OLED] People Count: 21
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 22
+Occupancy: LOW
+[OLED] People Count: 22
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 23
+Occupancy: LOW
+[OLED] People Count: 23
+Exit Button Pressed.
+Current People Count: 22
+Occupancy: LOW
+[OLED] People Count: 22
+Exit Button Pressed.
+Current People Count: 21
+Occupancy: LOW
+[OLED] People Count: 21
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 22
+Occupancy: LOW
+[OLED] People Count: 22
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 23
+Occupancy: LOW
+[OLED] People Count: 23
+Exit Button Pressed.
+Current People Count: 22
+Occupancy: LOW
+[OLED] People Count: 22
+Individual approaching
+Health Check Failed. Access Denied.
+Exit Button Pressed.
+Current People Count: 21
+Occupancy: LOW
+[OLED] People Count: 21
+Individual approaching
+Health Check Failed. Access Denied.
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 22
+Occupancy: LOW
+[OLED] People Count: 22
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 23
+Occupancy: LOW
+[OLED] People Count: 23
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 24
+Occupancy: LOW
+[OLED] People Count: 24
+Exit Button Pressed.
+Current People Count: 23
+Occupancy: LOW
+[OLED] People Count: 23
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 24
+Occupancy: LOW
+[OLED] People Count: 24
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 25
+Occupancy: LOW
+[OLED] People Count: 25
+Exit Button Pressed.
+Current People Count: 24
+Occupancy: LOW
+[OLED] People Count: 24
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 25
+Occupancy: LOW
+[OLED] People Count: 25
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 26
+Occupancy: LOW
+[OLED] People Count: 26
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 27
+Occupancy: LOW
+[OLED] People Count: 27
+Exit Button Pressed.
+Current People Count: 26
+Occupancy: LOW
+[OLED] People Count: 26
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 27
+Occupancy: LOW
+[OLED] People Count: 27
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 28
+Occupancy: LOW
+[OLED] People Count: 28
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 29
+Occupancy: LOW
+[OLED] People Count: 29
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 30
+Occupancy: LOW
+[OLED] People Count: 30
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 31
+Occupancy: LOW
+[OLED] People Count: 31
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 32
+Occupancy: LOW
+[OLED] People Count: 32
+Exit Button Pressed.
+Current People Count: 31
+Occupancy: LOW
+[OLED] People Count: 31
+Exit Button Pressed.
+Current People Count: 30
+Occupancy: LOW
+[OLED] People Count: 30
+Exit Button Pressed.
+Current People Count: 29
+Occupancy: LOW
+[OLED] People Count: 29
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 30
+Occupancy: LOW
+[OLED] People Count: 30
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 31
+Occupancy: LOW
+[OLED] People Count: 31
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 32
+Occupancy: LOW
+[OLED] People Count: 32
+Exit Button Pressed.
+Current People Count: 31
+Occupancy: LOW
+[OLED] People Count: 31
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 32
+Occupancy: LOW
+[OLED] People Count: 32
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 33
+Occupancy: LOW
+[OLED] People Count: 33
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 34
+Occupancy: LOW
+[OLED] People Count: 34
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 35
+Occupancy: LOW
+[OLED] People Count: 35
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 36
+Occupancy: LOW
+[OLED] People Count: 36
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 37
+Occupancy: LOW
+[OLED] People Count: 37
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 38
+Occupancy: LOW
+[OLED] People Count: 38
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 39
+Occupancy: MEDIUM
+[OLED] People Count: 39
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 40
+Occupancy: MEDIUM
+[OLED] People Count: 40
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 41
+Occupancy: MEDIUM
+[OLED] People Count: 41
+Individual approaching
+Health Check Failed. Access Denied.
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 42
+Occupancy: MEDIUM
+[OLED] People Count: 42
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 43
+Occupancy: MEDIUM
+[OLED] People Count: 43
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 44
+Occupancy: MEDIUM
+[OLED] People Count: 44
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 45
+Occupancy: MEDIUM
+[OLED] People Count: 45
+Exit Button Pressed.
+Current People Count: 44
+Occupancy: MEDIUM
+[OLED] People Count: 44
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 45
+Occupancy: MEDIUM
+[OLED] People Count: 45
+Exit Button Pressed.
+Current People Count: 44
+Occupancy: MEDIUM
+[OLED] People Count: 44
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 45
+Occupancy: MEDIUM
+[OLED] People Count: 45
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 46
+Occupancy: MEDIUM
+[OLED] People Count: 46
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 47
+Occupancy: MEDIUM
+[OLED] People Count: 47
+Exit Button Pressed.
+Current People Count: 46
+Occupancy: MEDIUM
+[OLED] People Count: 46
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 47
+Occupancy: MEDIUM
+[OLED] People Count: 47
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 48
+Occupancy: MEDIUM
+[OLED] People Count: 48
+Individual approaching
+Health Check Failed. Access Denied.
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 49
+Occupancy: MEDIUM
+[OLED] People Count: 49
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 50
+Occupancy: MEDIUM
+[OLED] People Count: 50
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 51
+Occupancy: MEDIUM
+[OLED] People Count: 51
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 52
+Occupancy: MEDIUM
+[OLED] People Count: 52
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 53
+Occupancy: MEDIUM
+[OLED] People Count: 53
+Individual approaching
+Health Check Failed. Access Denied.
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 54
+Occupancy: MEDIUM
+[OLED] People Count: 54
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 55
+Occupancy: MEDIUM
+[OLED] People Count: 55
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 56
+Occupancy: MEDIUM
+[OLED] People Count: 56
+Individual approaching
+Health Check Failed. Access Denied.
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 57
+Occupancy: MEDIUM
+[OLED] People Count: 57
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 58
+Occupancy: MEDIUM
+[OLED] People Count: 58
+Exit Button Pressed.
+Current People Count: 57
+Occupancy: MEDIUM
+[OLED] People Count: 57
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 58
+Occupancy: MEDIUM
+[OLED] People Count: 58
+Exit Button Pressed.
+Current People Count: 57
+Occupancy: MEDIUM
+[OLED] People Count: 57
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 58
+Occupancy: MEDIUM
+[OLED] People Count: 58
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 59
+Occupancy: MEDIUM
+[OLED] People Count: 59
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 60
+Occupancy: MEDIUM
+[OLED] People Count: 60
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 61
+Occupancy: MEDIUM
+[OLED] People Count: 61
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 62
+Occupancy: MEDIUM
+[OLED] People Count: 62
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 63
+Occupancy: MEDIUM
+[OLED] People Count: 63
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 64
+Occupancy: MEDIUM
+[OLED] People Count: 64
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 65
+Occupancy: MEDIUM
+[OLED] People Count: 65
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 66
+Occupancy: MEDIUM
+[OLED] People Count: 66
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 67
+Occupancy: MEDIUM
+[OLED] People Count: 67
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 68
+Occupancy: MEDIUM
+[OLED] People Count: 68
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 69
+Occupancy: MEDIUM
+[OLED] People Count: 69
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 70
+Occupancy: MEDIUM
+[OLED] People Count: 70
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 71
+Occupancy: MEDIUM
+[OLED] People Count: 71
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 72
+Occupancy: MEDIUM
+[OLED] People Count: 72
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 73
+Occupancy: MEDIUM
+[OLED] People Count: 73
+Individual approaching
+Health Check Failed. Access Denied.
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 74
+Occupancy: MEDIUM
+[OLED] People Count: 74
+Exit Button Pressed.
+Current People Count: 73
+Occupancy: MEDIUM
+[OLED] People Count: 73
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 74
+Occupancy: MEDIUM
+[OLED] People Count: 74
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 75
+Occupancy: MEDIUM
+[OLED] People Count: 75
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 76
+Occupancy: MEDIUM
+[OLED] People Count: 76
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 77
+Occupancy: HIGH
+[OLED] People Count: 77
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 78
+Occupancy: HIGH
+[OLED] People Count: 78
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 79
+Occupancy: HIGH
+[OLED] People Count: 79
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 80
+Occupancy: HIGH
+[OLED] People Count: 80
+Individual approaching
+Health Check Failed. Access Denied.
+Individual approaching
+Health Check Failed. Access Denied.
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 81
+Occupancy: HIGH
+[OLED] People Count: 81
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 82
+Occupancy: HIGH
+[OLED] People Count: 82
+Individual approaching
+Health Check Failed. Access Denied.
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 83
+Occupancy: HIGH
+[OLED] People Count: 83
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 84
+Occupancy: HIGH
+[OLED] People Count: 84
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 85
+Occupancy: HIGH
+[OLED] People Count: 85
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 86
+Occupancy: HIGH
+[OLED] People Count: 86
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 87
+Occupancy: HIGH
+[OLED] People Count: 87
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 88
+Occupancy: HIGH
+[OLED] People Count: 88
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 89
+Occupancy: HIGH
+[OLED] People Count: 89
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 90
+Occupancy: HIGH
+[OLED] People Count: 90
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 91
+Occupancy: HIGH
+[OLED] People Count: 91
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 92
+Occupancy: HIGH
+[OLED] People Count: 92
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 93
+Occupancy: HIGH
+[OLED] People Count: 93
+Individual approaching
+Health Check Failed. Access Denied.
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 94
+Occupancy: HIGH
+[OLED] People Count: 94
+Individual approaching
+Health Check Passed.
+Health Check Passed. Access Granted.
+Current People Count: 95
+Occupancy: FULL
+[OLED] People Count: 95
+Individual approaching
+Maximum Capacity Reached. Access Denied.
+Individual approaching
+Maximum Capacity Reached. Access Denied.
+Individual approaching
+Maximum Capacity Reached. Access Denied.
+Individual approaching
+Maximum Capacity Reached. Access Denied.
+Individual approaching
+Maximum Capacity Reached. Access Denied.
+Individual approaching
+Maximum Capacity Reached. Access Denied.
+
