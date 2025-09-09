@@ -59,6 +59,5 @@ An **Arduino-based access control system** with **real-time occupancy tracking**
 ## **Project Improvements Over Build 1**
 - Added **MAX_CAPACITY enforcement**.
 - Introduced **real-time occupancy updates** before entry decisions.
-- Integrated **OLED display** for live feedback.
 - Implemented **logging** to `.txt` for full test runs.
 - Optimized hardware polling & button debounce logic.
